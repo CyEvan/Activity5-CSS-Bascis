@@ -1,0 +1,32 @@
+.btn{
+   background-color: beige;
+   font-style: normal;
+   font-size: 200%;
+   font-family: "Times New Roman", Times, serif;
+   font-weight: bold;
+
+}
+/* important section */
+#gBackround{
+    text-decoration-line: none;
+    background-color: rgb(225, 225, 20) !important;
+}
+.container{
+    width: auto;
+    height: auto;
+    padding: 50px;
+    border: 20px solid #333;
+    text-align: center;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+}
+
+   
